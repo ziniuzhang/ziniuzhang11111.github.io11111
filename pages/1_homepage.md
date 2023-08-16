@@ -44,10 +44,7 @@ function toggleBibtex(articleid) {
 </script>
 ### Biography (this page is developed from TianjingZhang, I haven't finish it yet.)
 
-
-| <br>Hi there! I'm **Ziniu Zhang （张子牛）**, a simple senior student majoring in Computer Science and Technology at <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a>. My interests span across computer vision, multimodal analysis, and deep learning. In the past, I delved into research focused on Graph Neural Networks (GNNs) and medical image processing. Presently, my research has pivoted towards test-time adaptation for 3D detection and website agents.I'm privileged to have been guided by <a href="https://wenli-vision.github.io/">Prof. Wen Li</a> and Prof. Sharon during my undergraduate journey. Furthermore, I had the incredible opportunity to spend two unforgettable years in the UESTC-ACM university team, guided by <a href="https://www.x-mol.com/university/faculty/158445">Prof. Peng Yang</a>. 
-  <br> <br> **Email：** <michaelzhangziniu@gmail.com> <br><br>|  ![image](https://tianjingzhang.github.io/tjZhang.jpg)|
-
+| <br>Hi there! I'm **Ziniu Zhang （张子牛）**, a simple senior student majoring in Computer Science and Technology at <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a>. My interests span across computer vision, multimodal analysis, and deep learning. In the past, I delved into research focused on Graph Neural Networks (GNNs) and medical image processing. Presently, my research has pivoted towards test-time adaptation for 3D detection and website agents.I'm privileged to have been guided by <a href="https://wenli-vision.github.io/">Prof. Wen Li</a> and Prof. Sharon during my undergraduate journey. Furthermore, I had the incredible opportunity to spend two unforgettable years in the UESTC-ACM university team, guided by <a href="https://www.x-mol.com/university/faculty/158445">Prof. Peng Yang</a>.   <br> <br> **Email：** <zhangtianjinguestc@163.com> <br><br>|  ![image](https://tianjingzhang.github.io/tjZhang.jpg)|
 
 
 ### Publications
