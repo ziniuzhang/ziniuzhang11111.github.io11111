@@ -44,11 +44,13 @@ function toggleBibtex(articleid) {
 </script>
 
 
+Hi there! I'm ziniuzhang, a senior student majoring in Computer Science and Technology at UESTC. My interests span across computer vision, multimodal analysis, and deep learning. In the past, I delved into research focused on Graph Neural Networks (GNNs) and medical image processing. Presently, my research has pivoted towards test-time adaptation for 3D detection and website agents.I'm privileged to have been guided by Prof. Wen Li and Prof. Sharon during my undergraduate journey, and the invaluable support of my experienced lab colleagues has been remarkable. Furthermore, I had the incredible opportunity to spend two unforgettable years with the UESTC-ACM university team, guided by Professor Peng Yang.
 
 	
 ### Biography (this page is developed from TianjingZhang, I haven't finish it yet.)
  
-| <br>Hi there, I'm **Ziniu Zhang （张子牛）** , a senior student majoring in Computer Science and Technology in <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a>, supervised by <a href="https://liangjiandeng.github.io/" > Prof. Liang-Jian Deng</a>. I'm broadly interested in computer vision and deep learning. My current research focuses on remote sensing pansharpening, image fusion and deep learning. I will pursue my Ph.D. degree in <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a>, National University of Singapore (NUS).  <br> <br> **Email：** <zhangtianjinguestc@163.com> <br><br>|  ![image](https://tianjingzhang.github.io/tjZhang.jpg)|
+| <br>Hi there! I'm **Ziniu Zhang （张子牛）**, a simple senior student majoring in Computer Science and Technology at <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a>. My interests span across computer vision, multimodal analysis, and deep learning. In the past, I delved into research focused on Graph Neural Networks (GNNs) and medical image processing. Presently, my research has pivoted towards test-time adaptation for 3D detection and website agents.I'm privileged to have been guided by <a href="https://wenli-vision.github.io/">Prof. Wen Li</a> and Prof. Sharon during my undergraduate journey, and the support from senior colleagues in the lab has been invaluable. Furthermore, I had the incredible opportunity to spend two unforgettable years with the UESTC-ACM university team, guided by <a href="https://www.x-mol.com/university/faculty/158445">Prof Peng Yang</a>. I warmly welcome anyone who shares similar interests to reach out and connect. Thank you!
+  <br> <br> **Email：** <michaelzhangziniu@gmail.com> <br><br>|  ![image](https://tianjingzhang.github.io/tjZhang.jpg)|
 
 
 
