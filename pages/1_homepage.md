@@ -46,7 +46,7 @@ function toggleBibtex(articleid) {
 
 
 	
-### Biography
+### Biography (this page is developed from TianjingZhang, I haven't finish it yet.)
  
 | <br>Hi there, I'm **Ziniu Zhang （张子牛）** , a senior student majoring in Computer Science and Technology in <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a>, supervised by <a href="https://liangjiandeng.github.io/" > Prof. Liang-Jian Deng</a>. I'm broadly interested in computer vision and deep learning. My current research focuses on remote sensing pansharpening, image fusion and deep learning. I will pursue my Ph.D. degree in <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a>, National University of Singapore (NUS).  <br> <br> **Email：** <zhangtianjinguestc@163.com> <br><br>|  ![image](https://tianjingzhang.github.io/tjZhang.jpg)|
 
