@@ -1,4 +1,4 @@
 # My Homepage
-This is the personal [homepage](https://tianjingzhang.github.io/) of Tian-Jing Zhang(张添敬).
+About myself [Ziniu Zhang](ziniuzhang.github.io).
 
 
