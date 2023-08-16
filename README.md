@@ -1,4 +1,4 @@
 # My Homepage
-About myself [Ziniu Zhang](http://ziniuzhang.github.io).
+About myself [Ziniu Zhang](https://ziniuzhang.github.io/homepage/)
 
 
