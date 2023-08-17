@@ -63,25 +63,11 @@ function toggleBibtex(articleid) {
 
 ### Awards
 
-* National Scholarship, 2020 and 2021
-
-* Outstanding Students’ Scholarship of UESTC, 2019, 2020 and 2021
-
-* First Prize, _Huawei Scholarship_, 2021
-
-* First Prize, _Yunhui Award Special College Student Innovation and Entrepreneurship Program in UESTC_, 2021
-
-* Excellent class member of UESTC, 2019 and 2020
-
-* Honorable Mention, _Mathematical Contest In Modeling_, 2020
-
-* First Prize in Sichuan Province, _China Undergraduate Mathematical Contest in Modeling_, 2020
-
-* Third prize, _Southwest Hackathon Coding Contest_, 2020
-
-* Third prize, _Innovation Creavitivity Entrepreneurship” Competition_, 2021
-
-
+* **Silver medal** in the 47th <a href="https://icpc.global/">ACM-ICPC</a> International Collegiate Programming Contest Asian Reginal (Rank: 48/511)
+* **Silver medal** in the 8th China Collegiate Programming Contest(<a href="https://ccpc.io/">CCPC</a>).
+* **Bronze medal** in the 7th China Collegiate Programming Contest(CCPC).
+* First Prize in the 23rd National Olympic in Informatics in Provinces(<a href="https://www.noi.cn/">NOIP</a>)(Senior group).
+* First Prize in the 21st National Olympic in Informatics in Provinces(NOIP)(Junior group).
 
 
 
@@ -89,14 +75,7 @@ function toggleBibtex(articleid) {
 
 ### Academic Activities
 
-Peer-Reviewer: IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
-
-Peer-Reviewer:  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)
-
-Video Presentation: Record video report on AAAI 2022
-
-Video Presentation: Record video report on ACM Multimedia 2021
-
+Peer-Reviewer: CVPR Workshop 2023; ICML Workshop 2023
 
 ---
 
