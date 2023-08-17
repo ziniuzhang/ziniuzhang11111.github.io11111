@@ -42,7 +42,7 @@ function toggleBibtex(articleid) {
   }
 }
 </script>
-### Biography (this page is developed from TianjingZhang, I haven't finish it yet.)
+### Biography
 
 | <br>Hi there! I am **Ziniu Zhang (张子牛)**, a simple senior student majoring in Computer Science and Technology at <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a>. My interests span across computer vision and deep learning. I used to focus on Graph Neural Networks (GNNs) and medical image processing. Presently, my research has pivoted towards test-time adaptation for 3D detection and website processing. I am privileged to intern in <a href="https://diggers.ai/">Data Intelligence Group</a> and UESTC Big Data Centre supervised by <a href="https://wenli-vision.github.io/">Prof. Wen Li</a> and Prof. Somebody during my undergraduate journey. Additionally, I spend two unforgettable years in the UESTC ACM-ICPC university team, advised by <a href="https://www.x-mol.com/university/faculty/158445">Prof. Peng Yang</a>. I warmly welcome anyone who shares similar interests to contact. Cheers!    <br> **Email：** <michaelzhangziniu@gmail.com> <br><br>| <br>  ![image](https://ziniuzhang.github.io/ziniu11.jpg)|
 
