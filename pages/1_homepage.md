@@ -60,15 +60,15 @@ function toggleBibtex(articleid) {
 * 07/2023-11/2023: The University of Queensland
   <br>**Extrange student** majors in Data Science.
 
----
+
 
 ### Awards
 
 * **Silver medal** in the 47th <a href="https://icpc.global/">ACM-ICPC</a> International Collegiate Programming Contest Asian Reginal (Rank: 48/511)
 * **Silver medal** in the 8th China Collegiate Programming Contest(<a href="https://ccpc.io/">CCPC</a>).
-* **Bronze medal** in the 7th China Collegiate Programming Contest(CCPC).
-* First Prize in the 23rd National Olympic in Informatics in Provinces(<a href="https://www.noi.cn/">NOIP</a>)(Senior group).
-* First Prize in the 21st National Olympic in Informatics in Provinces(NOIP)(Junior group).
+* **Bronze medal** in the 7th China Collegiate Programming Contest(<a href="https://ccpc.io/">CCPC</a>).
+* **First Prize** in the 23rd National Olympic in Informatics in Provinces(<a href="https://www.noi.cn/">NOIP</a>)(Senior group).
+* **First Prize** in the 21st National Olympic in Informatics in Provinces(<a href="https://www.noi.cn/">NOIP</a>)(Junior group).
 
 
 
