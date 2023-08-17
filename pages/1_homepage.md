@@ -45,8 +45,7 @@ function toggleBibtex(articleid) {
 ### Biography
 
 | <br>Hi there! I am **Ziniu Zhang (张子牛)**, a simple senior student majoring in Computer Science and Technology at <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a>. My interests span across computer vision and deep learning. I used to focus on medical image denoising and graph neural networks (GNNs). Presently, my research has pivoted towards website processing and test-time adaptation for 3D detection. I have interned in <a href="https://diggers.ai/">Data Intelligence Group</a> supervised by <a href="https://wenli-vision.github.io/">Prof. Wen Li</a> and UESTC Big Data Centre supervised by Prof. Somebody. Additionally, I spend two unforgettable years(2021-2023) in the UESTC ACM-ICPC university team, advised by <a href="https://www.x-mol.com/university/faculty/158445">Prof. Peng Yang</a>. 
-<br> Fortunately, A chance hits me about internship in <a href="https://www.ntu.edu.sg/"> Nanyang Technological University</a> advised by Somebody and Prof. Somebody. Now, I am an extrange student in <a href="https://www.uq.edu.au/"> The University of Queensland</a>.
-<br>Anyone who shares similar interests is warmly welcomed to contact. Cheers!    <br> **Email：** <michaelzhangziniu@gmail.com> <br><br>| <br>  ![image](https://ziniuzhang.github.io/ziniu11.jpg)|
+Anyone who shares similar interests is warmly welcomed to contact. Cheers!    <br> **Email：** <michaelzhangziniu@gmail.com> <br><br>| <br>  ![image](https://ziniuzhang.github.io/ziniu11.jpg)|
 
 
 ### Publications
