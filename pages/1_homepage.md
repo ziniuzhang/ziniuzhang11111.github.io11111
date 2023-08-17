@@ -60,7 +60,7 @@ function toggleBibtex(articleid) {
 * 07/2023-11/2023: The University of Queensland
   <br>**Extrange student** majors in Data Science.
 
-
+---
 
 ### Awards
 
