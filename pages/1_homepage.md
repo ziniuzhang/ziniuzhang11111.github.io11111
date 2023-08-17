@@ -71,14 +71,19 @@ function toggleBibtex(articleid) {
 * **First Prize** in the 23rd National Olympic in Informatics in Provinces(<a href="https://www.noi.cn/">NOIP</a>)(Senior group).
 * **First Prize** in the 21st National Olympic in Informatics in Provinces(<a href="https://www.noi.cn/">NOIP</a>)(Junior group).
 
+---
 
+### Honors
+* **Model student Scholarship** in UESTC 2020 & 2021 & 2022
 
 ---
 
 ### Academic Activities
 
-Peer-Reviewer: CVPR Workshop 2023; ICML Workshop 2023
-
+* Peer-Reviewer in CVPR Workshop 2023; ICML Workshop 2023.
+* Director of 2022 UESTC ACM-ICPC Training Project in Dynamic Programming.
+* Member of the technical consulting group of National Olympiad in Informatics in Provinces(NOIP).
+* Co-organizer of the selection project of 2022 UESTC ACM-ICPC university team.
 ---
 
 
