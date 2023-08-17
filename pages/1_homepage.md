@@ -59,6 +59,7 @@ function toggleBibtex(articleid) {
   <br>**Internship** in someplace advised by Someone and Prof. Someone.
 * 07/2023-11/2023: The University of Queensland
   <br>**Extrange student** majors in Data Science.
+
 ---
 
 ### Awards
