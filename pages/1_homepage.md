@@ -84,6 +84,7 @@ function toggleBibtex(articleid) {
 * Director of 2022 UESTC ACM-ICPC Training Project in Dynamic Programming.
 * Member of the technical consulting group of National Olympiad in Informatics in Provinces(NOIP).
 * Co-organizer of the selection project of 2022 UESTC ACM-ICPC university team.
+
 ---
 
 
