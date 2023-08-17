@@ -82,7 +82,7 @@ function toggleBibtex(articleid) {
 
 * Peer-Reviewer in CVPR Workshop 2023; ICML Workshop 2023.
 * Director of 2022 UESTC ACM-ICPC Training Project in Dynamic Programming.
-* Member of the technical consulting group of National Olympiad in Informatics in Provinces(NOIP).
+* Member of the technical consulting group of 2021 National Olympiad in Informatics in Provinces(NOIP).
 * Co-organizer of the selection project of 2022 UESTC ACM-ICPC university team.
 
 ---
