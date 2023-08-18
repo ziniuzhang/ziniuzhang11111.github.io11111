@@ -52,6 +52,3 @@ function toggleBibtex(articleid) {
 
 
 
-* **Tianjing Zhang**, LiangJian Deng, ZhongCheng Wu and ChaoChao Zheng “An iterative approach for image fusion with dynamic gradient sparsity and anisotropic spectral-spatial total variation.”  **_Signal, Image and Video Processing_**.
-
-
