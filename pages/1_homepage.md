@@ -54,7 +54,7 @@ function toggleBibtex(articleid) {
 ### Experiences 
 
 * 09/2020-06/2024: University of Electronic Science and Technology of China (UESTC);
-  <br>**B.E.** in Computer Science and Technology(Honor Programme).<br>
+  <br>**B.E.** in Computer Science and Technology(Honor Program).<br>
 * 07/2023-11/2023: The University of Queensland
   <br>**Extrange student** majors in Data Science.<br>
 * 04/2023-present: Nanyang Technological University
