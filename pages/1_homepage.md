@@ -44,7 +44,7 @@ function toggleBibtex(articleid) {
 </script>
 ### Biography
 
-| <br>Hi there! I am **Ziniu Zhang (张子牛)**, a simple senior student majoring in Computer Science and Technology at <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a>. My interests span across computer vision and deep learning. I am privileged to intern in <a href="https://diggers.ai/">Data Intelligence Group</a> and UESTC Big Data Centre supervised by <a href="https://wenli-vision.github.io/">Prof. Wen Li</a> and Prof. Somebody during my undergraduate journey. Additionally, I spend two unforgettable years in the UESTC ACM-ICPC university team, advised by <a href="https://www.x-mol.com/university/faculty/158445">Prof. Peng Yang</a>. I have recieved the internship in <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> for a long time and am now an extrange student in <a href="https://www.uq.edu.au/">The University of Queensland</a>. I warmly welcome anyone who shares similar interests to contact. Cheers!    <br> **Email：** <michaelzhangziniu@gmail.com> <br><br>| <br>  ![image](https://ziniuzhang.github.io/ziniu11.jpg)|
+| <br>Hi there! I am **Ziniu Zhang (张子牛)**, a simple senior student majoring in Computer Science and Technology at <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a>. My interests span across computer vision and deep learning. I am privileged to intern in <a href="https://diggers.ai/">Data Intelligence Group</a> supervised by <a href="https://wenli-vision.github.io/">Prof. Wen Li</a> during my undergraduate journey. Additionally, I spend two unforgettable years in the UESTC ACM-ICPC university team, advised by <a href="https://www.x-mol.com/university/faculty/158445">Prof. Peng Yang</a>. I have recieved the internship in <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> for a long time and am now an extrange student in <a href="https://www.uq.edu.au/">The University of Queensland</a>. I warmly welcome anyone who shares similar interests to contact. Cheers!    <br> **Email：** <michaelzhangziniu@gmail.com> <br><br>| <br>  ![image](https://ziniuzhang.github.io/ziniu11.jpg)|
 
 
 ### Publications
@@ -54,7 +54,7 @@ function toggleBibtex(articleid) {
 ### Experiences 
 
 * 09/2020-06/2024: University of Electronic Science and Technology of China (UESTC);
-  <br>**B.E.** in Computer Science and Technology.<br>
+  <br>**B.E.** in Computer Science and Technology(Honor Programme).<br>
 * 07/2023-11/2023: The University of Queensland
   <br>**Extrange student** majors in Data Science.<br>
 * 04/2023-present: Nanyang Technological University
